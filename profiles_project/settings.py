@@ -125,4 +125,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-AUTH_USER_MODEL = 'profiles_api.UserProfile'
+AUTH_USER_MODEL = 'profiles_api.UserProfile' # Django user model, used for user authentication and user registration in project.
