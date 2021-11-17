@@ -1,5 +1,5 @@
 django>=2.2.24
 djangorestframework>=3.11.2
 python-dotenv==0.19.2
-
+supervisor>=3.3.1
 
