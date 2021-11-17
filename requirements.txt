@@ -1,7 +1,5 @@
 django>=2.2.24
 djangorestframework>=3.11.2
-<<<<<<< HEAD
 python-dotenv==0.19.2
-=======
-python-dotenv==0.19.2
->>>>>>> 9427f92388ba307e74c7f710b20b4cee76cf2884
+
+
